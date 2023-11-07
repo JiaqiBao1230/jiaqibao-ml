@@ -66,7 +66,5 @@ education:
 # Highlight the author in author lists. (true/false)
 highlight_name: true
 ---
-I am a third-year Ph.D. student at the Graduate School of Information Science and Technology at The University of Hokkaido and a member of the Laboratory for Pattern Recognition and Machine Learning, supervised by Prof. Mineichi Kudo. Before this, I received an M.Eng. degree from Shenzhen University under the supervision of Prof. Zhihui Lai. I received a B.Eng. degree from Nanjing University of Posts and Telecommunications Science and Technology. 
-
-My research interests focus on the theories and algorithms of machine learning. Most recently, I am focusing on semi-supervised learning, transfer learning, multi-label learning, and partial multi-label learning.
+111
 {style="text-align: justify;"}
