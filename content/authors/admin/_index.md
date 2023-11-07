@@ -48,15 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     mailto: 'bao@ist.hokudai.ac.jp'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=X3mfL0YAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
