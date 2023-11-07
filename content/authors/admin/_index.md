@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 包 嘉琪
+title: 包嘉琪
 
 # Name pronunciation (optional)
 name_pronunciation: Bao Jiaqi 
