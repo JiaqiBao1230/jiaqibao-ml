@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 包嘉琪
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jiaqi Bao
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiaqi
+last_name: Bao
 
 # Status emoji
 status:
