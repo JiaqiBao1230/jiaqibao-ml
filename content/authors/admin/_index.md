@@ -36,9 +36,6 @@ education:
     - course: MEng in Software Engeeniering
       institution: Shenzhen University
       year: 2017
-    - course: BSc
-      institution: Nanjing University of Posts and Telecommunications Science and Technology
-      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,7 +59,7 @@ social:
 highlight_name: true
 ---
 
-I am a third-year Ph.D. student at the Graduate School of Information Science and Technology at The University of Hokkaido and a member of the Laboratory for Pattern Recognition and Machine Learning, supervised by Prof. Mineichi Kudo. Before this, I received an M.Eng. degree from Shenzhen University under the supervision of Prof. Zhihui Lai. 
+I am a third-year Ph.D. student at the Graduate School of Information Science and Technology of Hokkaido University and a member of the Laboratory for Pattern Recognition and Machine Learning (PRML), supervised by Prof. Mineichi Kudo. Before this, I received an M.Eng. degree from Shenzhen University under the supervision of Prof. Zhihui Lai. 
 
 My research interests focus on the theories and algorithms of machine learning. Most recently, I am focusing on semi-supervised learning, transfer learning, multi-label learning, and partial multi-label learning.
 {style="text-align: justify;"}
