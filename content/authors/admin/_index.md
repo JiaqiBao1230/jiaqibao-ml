@@ -66,5 +66,3 @@ education:
 # Highlight the author in author lists. (true/false)
 highlight_name: true
 ---
-111
-{style="text-align: justify;"}
