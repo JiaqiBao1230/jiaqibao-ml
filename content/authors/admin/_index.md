@@ -21,15 +21,12 @@ organizations:
   - name: Hokkaido University
     url: https://www.hokudai.ac.jp/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Machine Learning
+  - Computer Vision
+  - Pattern Recognition
+    
 # Education to show in About widget
 education:
   courses:
