@@ -3,7 +3,7 @@
 title: 包嘉琪
 
 # Name pronunciation (optional)
-name_pronunciation: Bao Jiaqi 
+name_pronunciation: BaoJiaqi 
 
 # Full name (for SEO)
 first_name: Jiaqi
