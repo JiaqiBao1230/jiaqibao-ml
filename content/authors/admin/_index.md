@@ -30,15 +30,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science and Information Technology 
+      institution: Hokkaido University
+      year: 2024
+    - course: MEng in Software Engeeniering
+      institution: Shenzhen University
+      year: 2017
+    - course: BSc
+      institution: Nanjing University of Posts and Telecommunications Science and Technology
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
