@@ -50,7 +50,6 @@ sections:
       text:         
       # Contact (add or remove contact options as necessary)
       email: bao@ist.hokudai.ac.jp     
-      appointment_url: 'https://prml.main.ist.hokudai.ac.jp/'
       address:
         street: 北海道札幌市北区北14条西9丁目 北海道大学 大学院情報科学研究科
         city: Sapporo
@@ -60,7 +59,7 @@ sections:
         country_code: JP
      # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '141.33679'
-        longitude: '43.07638'  
+        latitude: '21.846'
+        longitude: '33.648'  
        
 ---
