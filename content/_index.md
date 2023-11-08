@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     - block: Publications
+      id: Publications
     content:
       title: Publications
       text: |-
@@ -61,8 +62,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text:         
       # Contact (add or remove contact options as necessary)
       email: bao@ist.hokudai.ac.jp     
       appointment_url: 'https://prml.main.ist.hokudai.ac.jp/'
