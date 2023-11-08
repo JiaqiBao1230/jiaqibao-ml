@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 包嘉琪
+title: BaoJiaqi
 
 # Full name (for SEO)
 first_name: Jiaqi
