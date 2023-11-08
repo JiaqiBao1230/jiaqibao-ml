@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: News
-    url: '#posts'
+    url: '#News'
     weight: 20
   - name: Research
-    url: '#projects'
+    url: '#Research'
     weight: 30
   - name: Publications
-    url: '#talks'
+    url: '#Publications'
     weight: 40
   - name: CV
     url: uploads/resume.pdf
