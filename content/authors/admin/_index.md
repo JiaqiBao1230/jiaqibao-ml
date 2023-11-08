@@ -26,6 +26,7 @@ interests:
   - Machine Learning
   - Computer Vision
   - Pattern Recognition
+  - Robustness
     
 # Education to show in About widget
 education:
