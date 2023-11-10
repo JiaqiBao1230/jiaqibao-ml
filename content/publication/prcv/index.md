@@ -9,7 +9,7 @@ authors:
 - Ning Liu
 - Yuwu Lu
 
-date: 2019-08-16T15:44:47+08:00
+date: 2019-10-16T15:44:47+08:00
 doi: "https://doi.org/10.1007/978-3-030-31723-2_9"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publishDate: 2023-08-16T15:44:47+08:00
 publication_types: ["Conference paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: Pattern Recognition and Computer Vision
+publication: Chinese Conference on Pattern Recognition and Computer Vision
 publication_short: PRCV2019
 
 abstract:  Classical subspace learning methods such as spectral regression (SR) and its sparse extensions are all two-step ways, which will lead to a suboptimal subspace for feature extraction. Another potential drawback is that these methods are not robust to the outliers and the variations of data because they use Frobenius norm as the basic distance metric. To address these problems, a novel face recognition method called robust embedding regression (RER) is proposed, which performs low-dimensional embedding and jointly sparse regression simultaneously. By this way, the optimal subspace can be obtained. Besides, we not only emphasize {\$}{\$} L{\_}{\{}2,1{\}} {\$}{\$}-norm minimization on both loss function and regularization terms, but also use {\$}{\$} L{\_}{\{}2,1{\}} {\$}{\$}-norm as the basic distance metric. Therefore, we can obtain jointly sparse projections in the regression process and more stable and robust low-dimensional reconstruction in the embedding process. Moreover, we use a more generalized constraint to improve the generalization of RER. The corresponding optimal solution can be computed by generalized eigen-decomposition via an iterative optimization algorithm. Theoretical analysis and experimental results prove the convergence of RER. Extensive experiments show the proposed RER has a better performance than other related methods on four well-known datasets.
