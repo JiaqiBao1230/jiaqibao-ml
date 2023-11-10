@@ -50,7 +50,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 30
+  quality: 100
   anchor: Center
 timeout: 600000
 taxonomies:
