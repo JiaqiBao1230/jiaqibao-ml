@@ -60,7 +60,7 @@ social:
 highlight_name: true
 ---
 
-I am a third-year Ph.D. student at the Graduate School of Information Science and Technology of Hokkaido University and a member of the Laboratory for Pattern Recognition and Machine Learning (PRML), supervised by <a href="https://prml.main.ist.hokudai.ac.jp/mineichi-kudo/">Prof. Mineichi Kudo</a>. Before this, I received an M.Eng. degree from Shenzhen University under the supervision of <a hred="https://www.scholat.com/laizhihui">Prof. Zhihui Lai</a>. 
+I am a third-year Ph.D. student at the Graduate School of Information Science and Technology of Hokkaido University and a member of the Laboratory for Pattern Recognition and Machine Learning (PRML), supervised by <a href="https://prml.main.ist.hokudai.ac.jp/mineichi-kudo/">Prof. Mineichi Kudo</a>. Before this, I received an M.Eng. degree from Shenzhen University under the supervision of <a hred="https://www.scholat.com/laizhihui/">Prof. Zhihui Lai</a>. 
 
 My research interests focus on the theories and algorithms of machine learning. Most recently, I am focusing on semi-supervised learning, transfer learning, and multi-label learning.
 {style="text-align: justify;"}
