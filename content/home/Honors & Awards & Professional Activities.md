@@ -25,10 +25,10 @@ design:
 author: admin
 ---
 <ul class="news-ul">
-  <li>Conference Reviewer of ICPR2022. </li>
+  <li>[2022-1]:Conference Reviewer of ICPR2022. </li>
   <li>[2021-4]: Hokkaido University Ambitious Doctoral Fellowship. </li>
-<!-- <li>[2021-4]: Chinese Government Scholarship (CSC). </li> -->
-  <li>[2018-07]: Best Poster Award of The Artificial intelligence on fashion and textile Conference (AIFT2018).</li>
+  <li>[2021-4]: Chinese Government Scholarship (CSC). </li> 
+  <li>[2018-07]: Best Poster Award of The Artificial Intelligence on Fashion and Textile Conference (AIFT2018).</li>
   <li>[2019-09]: Shenzhen University Academic Scholarship, First Prize. </li>
   <li>[2018-09]: Shenzhen University Academic Scholarship, First Prize. </li>
   <li>[2017-09]: Shenzhen University Academic Scholarship, First Prize. </li>
