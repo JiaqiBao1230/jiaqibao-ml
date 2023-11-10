@@ -8,7 +8,7 @@ authors:
 - Mineichi Kudo
 - Lu Sun
 
-date: 2022
+date: 2022-08-16T15:44:47+08:00
 doi: "https://doi.org/10.1007/978-3-031-23028-8_21"
 
 # Schedule page publish date (NOT publication's date).
@@ -56,7 +56,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
