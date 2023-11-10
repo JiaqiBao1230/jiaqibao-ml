@@ -29,7 +29,7 @@ abstract: To utilize both labeled data and unlabeled data in real-world applicat
 # Summary. An optional shortened abstract.
 # summary: "We propose the first low-code FL platform, EasyFL, to enable users with various levels of expertise to experiment and prototype FL applications with little coding. We achieve this goal while ensuring great flexibility and extensibility for customization by unifying simple API design, modular design, and granular training flow abstraction. Besides, EasyFL expedites distributed training by 1.5x."
 
-tags: ["Feature selection", "Semi-supervised learning", "Ridge regression", "Nuclear norm", "system"]
+tags: ["Feature selection", "Semi-supervised learning", "Ridge regression", "Nuclear norm"]
 categories: ["Semi-supervised learning"]
 featured: true
 
