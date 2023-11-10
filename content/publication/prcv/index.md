@@ -23,7 +23,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Pattern Recognition and Computer Vision
-publication_short: PRCV 2019
+publication_short: PRCV2019
 
 abstract: 
 Classical subspace learning methods such as spectral regression (SR) and its sparse extensions are all two-step ways, which will lead to a suboptimal subspace for feature extraction. Another potential drawback is that these methods are not robust to the outliers and the variations of data because they use the Frobenius norm as the basic distance metric. To address these problems, a novel face recognition method called robust embedding regression (RER) is proposed, which performs low-dimensional embedding and jointly sparse regression simultaneously. In this way, the optimal subspace can be obtained. Besides, we not only emphasize L2,1-norm minimization on both loss function and regularization terms but also use 
