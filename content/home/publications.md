@@ -9,9 +9,9 @@ active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 # subtitle: '<a href="/publication">Publications</a> | <a href="/patent">Patents</a>'
 
@@ -24,21 +24,21 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 5
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: publication/custom
   # view: 2
   # flip_alt_rows: false
-  columns: '2'
+  columns: '1'
 ---
 
 <!-- {{% callout note %}}
