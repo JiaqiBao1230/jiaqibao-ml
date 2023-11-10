@@ -9,7 +9,7 @@ authors:
 - Minghua Wan
 - Guowei Yang
 
-date: 2020
+date: 2020-08-16T15:44:47+08:00
 doi: "https://doi.org/10.1007/s13042-020-01113-"
 
 # Schedule page publish date (NOT publication's date).
@@ -55,7 +55,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
