@@ -9,7 +9,7 @@ authors:
 - Ning Liu
 - Yuwu Lu
 
-date: 2019
+date: 2019-08-16T15:44:47+08:00
 doi: "https://doi.org/10.1007/978-3-030-31723-2_9"
 
 # Schedule page publish date (NOT publication's date).
