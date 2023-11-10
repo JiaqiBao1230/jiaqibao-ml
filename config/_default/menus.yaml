@@ -7,14 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: News
-    url: '#News'
-    weight: 20
-  - name: Research
-    url: '#Research'
-    weight: 30
+  #- name: News
+  #  url: '#News'
+  #  weight: 20
+  # - name: Research
+  #  url: '#Research'
+ #   weight: 30
   - name: Publications
-    url: '#publication'
+    url: '/publication'
     weight: 40
   - name: CV
     url: uploads/resume.pdf
