@@ -51,7 +51,7 @@ social:
     link: https://scholar.google.com/citations?user=X3mfL0YAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/pikari1230
+    link: https://github.com/JiaqiBao1230
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jiaqi-bao-aa0408296/
