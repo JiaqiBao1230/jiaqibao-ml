@@ -25,8 +25,9 @@ design:
 author: admin
 ---
 <ul class="news-ul">
+   <li>[2023-12]: A manuscript about transfer learning  accepted by the journal of Pattern Analysis and Applications.</li>
    <li>[2023-08]: A manuscript about transfer learning under Major Revision on the journal of Pattern Analysis and Applications.</li>
-   <li>[2023-07]: The manuscript about semi-supervised learning accepted by Pattern Recognition.</li>
+   <li>[2023-07]: A manuscript about semi-supervised learning accepted by the journal of Pattern Recognition.</li>
 <style>
 .news-ul li{margin-bottom: 10px;}
 </style>
