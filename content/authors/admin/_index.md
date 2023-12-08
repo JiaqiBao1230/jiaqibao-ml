@@ -3,8 +3,8 @@
 title: Bao Jiaqi
 
 # Full name (for SEO)
-first_name: Jiaqi
-last_name: Bao
+first_name: Bao
+last_name: Jiaqi
 
 # Status emoji
 status:
