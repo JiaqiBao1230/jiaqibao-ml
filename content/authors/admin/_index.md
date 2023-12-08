@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bao Jiaqi
+title:Jiaqi Bao 
 
 # Full name (for SEO)
 first_name: Bao
